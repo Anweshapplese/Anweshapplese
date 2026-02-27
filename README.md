@@ -1,21 +1,50 @@
-# 💫 About Me:
-Building AI-based web applications using React and FastAPI.<br>Developing a medical report analysis system.<br>Exploring RAG architecture and vector databases.<br>Strengthening backend development skills.<br>Practicing Python and improving problem-solving consistency.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Anweshappleise) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anwesha Sarangi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Anny) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anweshanny7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@23cse117 anweshasarangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23cse117.anweshasarangi@giet.edu) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anweshapplese&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anweshapplese&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 💖 About Me:
+Building AI-based web applications using React and FastAPI.<br>
+Developing a medical report analysis system.<br>
+Exploring RAG architecture and vector databases.<br>
+Strengthening backend development skills.<br>
+Practicing Python and improving problem-solving consistency.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anweshapplese&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@Anweshappleise)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff85c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anwesha%20Sarangi)
+[![Pinterest](https://img.shields.io/badge/Pinterest-ff4da6?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/Anny)
+[![YouTube](https://img.shields.io/badge/YouTube-ff66b2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@anweshanny7)
+[![Mastodon](https://img.shields.io/badge/Mastodon-ff99cc?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@23cse117)
+[![Email](https://img.shields.io/badge/Email-ff80bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23cse117.anweshasarangi@giet.edu)
+
+---
+
+# 💅 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ff9ecb?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6d9?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff80bf?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff66b2?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff99cc?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-ffcce6?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-ffb3d9?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-ff85c1?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-ff4da6?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff99cc?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ff80bf?style=for-the-badge&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff66b2?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Anweshapplese&theme=rose_pine&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&theme=rose_pine&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anweshapplese&theme=dracula&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Anweshapplese&icon=8&color=12)](https://visitcount.itsvg.in)

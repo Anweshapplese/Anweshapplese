@@ -34,11 +34,12 @@ Practicing Python and improving problem-solving consistency.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Anweshapplese&theme=rose_pine&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&theme=rose_pine&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anweshapplese&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&theme=radical&hide_border=true&layout=compact)
 
 ---
 

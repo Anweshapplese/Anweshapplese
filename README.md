@@ -17,7 +17,7 @@ Practicing Python and improving problem-solving consistency.
 
 ---
 
-# 💅 Tech Stack:
+# ✨ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ff9ecb?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6d9?style=for-the-badge&logo=javascript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff80bf?style=for-the-badge&logo=kotlin&logoColor=white)

@@ -42,14 +42,13 @@ Practicing Python and improving problem-solving consistency.
 ![GitHub](https://img.shields.io/badge/GitHub-ff99cc?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&theme=rose_pine&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Anweshapplese&hide_border=true&bg_color=fff0f6&title_color=ff4da6&text_color=cc0066&icon_color=ff66b2)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anweshapplese&theme=rose_pine&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anweshapplese&hide_border=true&background=fff0f6&ring=ff4da6&fire=ff66b2&currStreakLabel=cc0066)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&theme=rose_pine&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anweshapplese&hide_border=true&layout=compact&bg_color=fff0f6&title_color=ff4da6&text_color=cc0066)
 
 ---
 

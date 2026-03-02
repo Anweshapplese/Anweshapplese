@@ -17,17 +17,30 @@ Focused on clean, efficient code
 
 ---
 
-# 💻 Core Tech Stack:
+# 💻 Tech Stack:
+
+### 👨‍💻 Programming
 ![C](https://img.shields.io/badge/C-1f1f3a?style=for-the-badge&logo=c&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-2d2d72?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2b55?style=for-the-badge&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-4B0082?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Web & App
 ![React](https://img.shields.io/badge/React-1e1e40?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/NodeJS-252850?style=for-the-badge&logo=node.js&logoColor=green)
-![PHP](https://img.shields.io/badge/PHP-4B0082?style=for-the-badge&logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-1B1F3B?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Android](https://img.shields.io/badge/Android-191970?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Next JS](https://img.shields.io/badge/NextJS-0f0f2d?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-191970?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2e2e8b?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Tools
 ![Docker](https://img.shields.io/badge/Docker-000080?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1c1c3c?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a23?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
